@@ -1,0 +1,5 @@
+jupyter
+choix
+numpy
+pandas
+plotly
